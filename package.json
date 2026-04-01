@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/yandex-cloud-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Yandex Cloud infrastructure management — compute, storage, serverless, operations. 8 tools.",
+  "version": "1.0.1",
+  "description": "MCP server for Yandex Cloud — compute, storage, serverless infrastructure (Russia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -46,7 +46,9 @@
     "cloud",
     "infrastructure",
     "compute",
-    "serverless"
+    "serverless",
+    "api",
+    "typescript"
   ],
   "license": "MIT",
   "repository": {
