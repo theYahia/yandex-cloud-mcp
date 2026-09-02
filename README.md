@@ -1,6 +1,6 @@
-# @theyahia/yandex-cloud-mcp
+# Yandex Cloud MCP — управление облаком из диалога с нейросетью
 
-MCP-сервер для управления инфраструктурой Yandex Cloud -- Compute VM, Object Storage, Serverless Functions, Operations. **8 инструментов.**
+Если вы искали, как запустить или погасить виртуалку в Яндекс Облаке одной фразой, посмотреть содержимое бакета Object Storage или вызвать serverless-функцию без консоли и CLI — это оно. **8 инструментов**: Compute VM, Object Storage, Serverless Functions и статусы операций.
 
 [![npm](https://img.shields.io/npm/v/@theyahia/yandex-cloud-mcp)](https://www.npmjs.com/package/@theyahia/yandex-cloud-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -70,3 +70,4 @@ MIT
 ---
 
 Часть [WWmcp](https://github.com/theYahia/WWmcp) · Telegram: [@vhodvai](https://t.me/vhodvai)
+
